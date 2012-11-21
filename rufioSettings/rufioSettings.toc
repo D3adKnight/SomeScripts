@@ -1,0 +1,17 @@
+## Interface: 50001
+## Title: |cff63afc8rufio|cffffffffSettings|r
+## Author: various
+## Version: 1.5
+
+Camera.lua
+Chat.lua
+Chattabs.lua
+Classcolors.lua
+DefaultGladius.lua
+durability.lua
+Minimap.lua
+Raidfader.lua
+Recolor.lua
+rufioSettings.lua
+Tooltip.lua
+Unitframes.lua
